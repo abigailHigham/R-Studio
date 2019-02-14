@@ -1,0 +1,12 @@
+name: abbs
+title:
+username:
+account: abigail-higham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 614693
+bundleId: 1757390
+url: https://abigail-higham.shinyapps.io/abbs/
+when: 1544587535.34829
+asMultiple: FALSE
+asStatic: FALSE
